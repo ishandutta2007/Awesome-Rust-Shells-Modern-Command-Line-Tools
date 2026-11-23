@@ -64,7 +64,7 @@ Below is a comparison of leading managed cloud terminal, developer environment, 
 
 ## 💻 Open-Source GitHub Projects
 
-The table below catalogs premier open-source Rust shells, terminal emulators, prompt engines, and modern command-line replacements for classic GNU/Unix utilities, sorted in descending order by **GitHub Stars_Count**:
+The table below catalogs premier open-source Rust shells, terminal emulators, prompt engines, and modern command-line replacements for classic GNU/Unix utilities, sorted in descending order by **GitHub_Stars_Count**:
 
 | Repository | GitHub_Stars | Language | Primary Category | Replaces / Role & Key Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
