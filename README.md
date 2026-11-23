@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Rust-Shells-Modern-Command-Line-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Rust-Shells-Modern-Command-Line-Tools?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Rust-Shells-Modern-Command-Line-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Rust-Shells-Modern-Command-Line-Tools?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Rust-Shells-Modern-Command-Line-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Rust-Shells-Modern-Command-Line-Tools?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -64,9 +64,9 @@ Below is a comparison of leading managed cloud terminal, developer environment, 
 
 ## 💻 Open-Source GitHub Projects
 
-The table below catalogs premier open-source Rust shells, terminal emulators, prompt engines, and modern command-line replacements for classic GNU/Unix utilities, sorted in descending order by **GitHub Star Count**:
+The table below catalogs premier open-source Rust shells, terminal emulators, prompt engines, and modern command-line replacements for classic GNU/Unix utilities, sorted in descending order by **GitHub Stars_Count**:
 
-| Repository | Stars | Language | Primary Category | Replaces / Role & Key Capabilities |
+| Repository | GitHub_Stars | Language | Primary Category | Replaces / Role & Key Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[ripgrep](https://github.com/BurntSushi/ripgrep)** | [![Stars](https://img.shields.io/github/stars/BurntSushi/ripgrep?style=social&color=white)](https://github.com/BurntSushi/ripgrep/stargazers) | `Rust` | Search / Text Processing | **Replaces `grep`**. Ultra-fast recursive line-oriented regex search adhering strictly to `.gitignore` rules. |
 | **[Alacritty](https://github.com/alacritty/alacritty)** | [![Stars](https://img.shields.io/github/stars/alacritty/alacritty?style=social&color=white)](https://github.com/alacritty/alacritty/stargazers) | `Rust` | Terminal Emulator | GPU-accelerated (OpenGL) cross-platform terminal emulator focused on raw performance and minimal latency. |
